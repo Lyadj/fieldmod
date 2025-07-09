@@ -17,7 +17,7 @@ Rectangle{
         anchors.verticalCenter: atpfooter_1.verticalCenter
         anchors.rightMargin: 0.02*atpfooter_1.width
         font.family: sourceNotoFont.name
-        text: "\u00a9 2024-2025 FieldMod"
+        text: "\u00a9 2024-2025 FieldMod GuoLiang Tan"
 
     }
 
